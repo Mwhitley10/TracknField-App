@@ -3,7 +3,23 @@
         {
             "date": "2023-03-13",
             "warmUp": "Stretch",
-            "main": "sprint"
+            "main": "sprint",
+            "events": "100, 200",
+            "sets": 115
+        },
+        {
+            "date": "2023-03-14",
+            "warmUp": "Stretch",
+            "main": "sprint",
+            "events": "200, 300, 400",
+            "sets": 115
+        },
+        {
+            "date": "2023-03-15",
+            "warmUp": "Stretch",
+            "main": "distance",
+            "events": "800, 1500",
+            "sets": 600
         }
     ]
 }
